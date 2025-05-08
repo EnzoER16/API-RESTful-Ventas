@@ -1,3 +1,18 @@
-venv-apiv
-__pycache__
+# ENTORNO VIRTUAL
+venv
+
+# ARCHIVOS DE PYTHON
+__pycache__/
+*.py[cod]
+
+# ARCHIVOS DE ENTORNO
 .env
+.env.*
+
+# CONFIGURACIÓN DEL IDE
+.vscode/
+.idea/
+
+# OTROS 
+*.log
+*.sqlite3
