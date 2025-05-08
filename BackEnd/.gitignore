@@ -1,5 +1,5 @@
 # ENTORNO VIRTUAL
-venv
+venv/
 
 # ARCHIVOS DE PYTHON
 __pycache__/
