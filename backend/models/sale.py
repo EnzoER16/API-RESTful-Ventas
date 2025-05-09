@@ -1,4 +1,5 @@
 from models.db import db
+from models.client import Client
 
 class Sale(db.Model):
     __tablename__ = 'sales'
